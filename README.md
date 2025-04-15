@@ -1,7 +1,6 @@
 <!--## Olá, seja bem-vindos 👩‍💻 -->
-
-<h1 style="background: linear-gradient(to right, #FF1493, #ADD8E6); color: transparent; -webkit-background-clip: text; margin-bottom: 0;">Olá, seja bem-vindo 👩‍💻</h1>
-<h2 style="margin-top: 0;">Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras.</h2>
+<h1 style="color: #FF1493;">Olá, seja bem-vindo 👩‍💻</h1>
+<h2 style="color: #7FDBFF;">Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras.</h2>
 
 
 **`Desenvolvedora Frontend`**
