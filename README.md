@@ -1,4 +1,4 @@
-## 🖥️ Olá, sejam bem-vindos 
+## Olá, sejam bem-vindos 👩‍💻
 
 **`Desenvolvedora Frontend`**
 
