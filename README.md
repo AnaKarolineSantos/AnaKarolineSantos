@@ -1,4 +1,4 @@
-## Olá, sejam bem-vindos 👩‍💻 
+## Olá, seja bem-vindos 👩‍💻 
 Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras . 
 
 **`Desenvolvedora Frontend`**
