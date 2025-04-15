@@ -1,6 +1,6 @@
 <!--## Olá, seja bem-vindos 👩‍💻 -->
-<h1 style="color: #FF1493;">Olá, seja bem-vindo 👩‍💻</h1>
-<h2 style="color: #7FDBFF;">Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras.</h2>
+<h1>Olá, seja bem-vindo 👩‍💻</h1>
+<h2>Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras.</h2>
 
 
 **`Desenvolvedora Frontend`**
