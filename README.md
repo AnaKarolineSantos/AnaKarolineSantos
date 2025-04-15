@@ -1,11 +1,12 @@
 ## Olá, seja bem-vindos 👩‍💻 
 Aqui você encontrará projetos que representam minha jornada no desenvolvimento, sempre em busca de soluções criativas e inovadoras . 
+<h1 style="background: linear-gradient(to right, #FF7F7F, #7FDBFF); color: transparent; -webkit-background-clip: text;">Olá, seja bem-vindo 👩‍💻</h1>
+
 
 **`Desenvolvedora Frontend`**
 
----
+<!---- -->
 <!--### 👾 Linguagens e Tecnologias -->
-<h1 style="background: linear-gradient(to right, #FF7F7F, #7FDBFF); color: transparent; -webkit-background-clip: text;">Olá, seja bem-vindo 👩‍💻</h1>
 
 
 <img 
