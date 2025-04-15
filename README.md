@@ -50,7 +50,7 @@
 
 <p>
   
-<img 
+<!-- <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
