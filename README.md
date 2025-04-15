@@ -5,6 +5,8 @@ Aqui você encontrará projetos que representam minha jornada no desenvolvimento
 
 ---
 <!--### 👾 Linguagens e Tecnologias -->
+<h1 style="background: linear-gradient(to right, #FF7F7F, #7FDBFF); color: transparent; -webkit-background-clip: text;">Olá, seja bem-vindo 👩‍💻</h1>
+
 
 <img 
     align="left" 
@@ -42,7 +44,7 @@ Aqui você encontrará projetos que representam minha jornada no desenvolvimento
 />
 <br/>
 
-<!--## -->
+## 
 
 <div>
  <a href="https://www.linkedin.com/in/ana-karoline-pereira-28k/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
